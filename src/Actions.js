@@ -1,4 +1,3 @@
-
 const ACTIONS = {
     JOIN: 'join',
     JOINED: 'joined',
